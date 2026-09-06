@@ -57,7 +57,7 @@ export default function AboutSection() {
           >
             <div className="relative mx-auto aspect-square w-full max-w-[400px] overflow-hidden rounded-3xl shadow-lg shadow-purple-500/10 lg:mx-0">
               <Image
-                src="/images/about-profile.png"
+                src="/images/hero-profile.jpg"
                 alt="Rami Kamel - About"
                 fill
                 className="object-cover"

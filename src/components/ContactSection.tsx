@@ -84,7 +84,7 @@ export default function ContactSection() {
 
           <div className="flex justify-center gap-4">
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/rami-kamel-226116356"
               target="_blank"
               rel="noopener noreferrer"
               className="flex h-10 w-10 items-center justify-center rounded-full bg-slate-100 text-slate-600 transition-all hover:bg-purple-100 hover:text-purple-600 dark:bg-slate-700 dark:text-slate-400 dark:hover:bg-slate-600 dark:hover:text-purple-400"
@@ -100,7 +100,7 @@ export default function ContactSection() {
               <TwitterIcon />
             </a>
             <a
-              href="https://github.com"
+              href="https://github.com/ramykamel109-sys/rami-kamel-portfolio"
               target="_blank"
               rel="noopener noreferrer"
               className="flex h-10 w-10 items-center justify-center rounded-full bg-slate-100 text-slate-600 transition-all hover:bg-purple-100 hover:text-purple-600 dark:bg-slate-700 dark:text-slate-400 dark:hover:bg-slate-600 dark:hover:text-purple-400"

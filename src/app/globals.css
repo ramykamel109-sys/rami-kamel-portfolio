@@ -25,9 +25,9 @@ body {
   body {
     background: linear-gradient(
       135deg,
-      #0f172a 0%,
-      #2e1065 50%,
-      #0f172a 100%
+      #000000 0%,
+      #0a0a0a 50%,
+      #000000 100%
     );
   }
 }
